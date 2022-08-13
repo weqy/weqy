@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 📫 How to reach me: ... weq#8488
+- - 😄 Pronouns: ... any / all
+- - ⚡ Fun fact: ... favorite food chicken
+
 
 <!--
 **weqy/weqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
